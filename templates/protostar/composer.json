@@ -1,0 +1,15 @@
+{
+    "name": "sergey/protostar",
+    "authors": [
+        {
+            "name": "cobweb",
+            "email": "codename.cobweb@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "protostar\\": ""
+        }
+     },
+    "require": {}
+}
